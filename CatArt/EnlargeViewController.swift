@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  EnlargeViewController.swift
 //  CatArt
 //
 //  Created by Chang Sophia on 8/20/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class EnlargeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
